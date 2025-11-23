@@ -75,6 +75,26 @@ Passionate about turning data into actionable insights, automating processes, an
 </p>        
 <!--- stats (end) -->
 
+<!--- Kaggle Badges/Using a GitHub Action (Automated)
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
+
+<!-- HTML 
+<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
+<img src="./kaggle-plates/Competitions/white.svg" />
+
+i.e
+<div>
+  <a href="https://www.kaggle.com/alekhdeztemoltzin">
+    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
+  </a>
+  <a href="https://www.kaggle.com/alekhdeztemoltzin">
+    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
+  </a>
+</div>
+
+<br />
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

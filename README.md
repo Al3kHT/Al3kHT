@@ -4,8 +4,6 @@
 <img src="https://iyarn.com/wp-content/uploads/2022/10/Frame-43.png" width="800"/>
 </div>
 
-<!--![](https://iyarn.com/wp-content/uploads/2022/10/Frame-43.png "Confort Zone")
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -13,13 +11,11 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <!---<div align="center">
   <img  src="D:\[01]\2. A\A.3 WISDOM\TT\CPC\banner_linkedin"
        alt="snake" /></a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -30,7 +26,9 @@ Passionate about turning data into actionable insights, automating processes, an
   </ul>
 </div>
 
-<!-- I WANT MY TECH STACK TO BECOME: EXCEL (VBA), PYTHON, R, SQL, POWER BI, AZURE. MY MAIN TOOLS FOR MANAGEMENT ARE SQL DB, FOR ANALYTICS AND PREDICTIONS PYTHON, AND POWER BI (GOOGLE DATA STUDIO) FOR VISUALIZATION
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8799b774-13aa-4695-9a5c-c2fe05ad2642" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<!--img src="https://www.credly.com/badges/8799b774-13aa-4695-9a5c-c2fe05ad2642/public_url"/>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **SQL, React, R, Nodejs, LLM**
@@ -45,12 +43,15 @@ Passionate about turning data into actionable insights, automating processes, an
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [alekht](https://discordapp.com/users/402661427522961408) my username!
 <!--Intro end-->
-<div align="center">
 
+<!-- I WANT MY TECH STACK TO BECOME: EXCEL (VBA), PYTHON, R, SQL, POWER BI, AZURE. MY MAIN TOOLS FOR MANAGEMENT ARE SQL DB, FOR ANALYTICS AND PREDICTIONS PYTHON, AND POWER BI (GOOGLE DATA STUDIO) FOR VISUALIZATION-->
+
+<div align="center">
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alekhdeztemoltzin)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AlekHT/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31920341/alejandro-de-jesús-hernández) 
 </div>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->

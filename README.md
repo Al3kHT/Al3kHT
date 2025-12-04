@@ -1,6 +1,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![](https://iyarn.com/wp-content/uploads/2022/10/Frame-43.png "Confort Zone")
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -25,6 +27,7 @@ Passionate about turning data into actionable insights, automating processes, an
   </ul>
 </div>
 
+<!-- I WANT MY TECH STACK TO BECOME: EXCEL (VBA), PYTHON, R, SQL, POWER BI, AZURE. MY MAIN TOOLS FOR MANAGEMENT ARE SQL DB, FOR ANALYTICS AND PREDICTIONS PYTHON, AND POWER BI (GOOGLE DATA STUDIO) FOR VISUALIZATION
 
 <!--Intro start-->
 - 🔭 I’m currently working on **SQL, React, R, Nodejs, LLM**

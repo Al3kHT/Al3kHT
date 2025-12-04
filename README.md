@@ -1,7 +1,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<img src="https://iyarn.com/wp-content/uploads/2022/10/Frame-43.png" width="800"/>
+</div>
 
-![](https://iyarn.com/wp-content/uploads/2022/10/Frame-43.png "Confort Zone")
+<!--![](https://iyarn.com/wp-content/uploads/2022/10/Frame-43.png "Confort Zone")
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -43,7 +46,9 @@ Passionate about turning data into actionable insights, automating processes, an
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [alekht](https://discordapp.com/users/402661427522961408) my username!
 <!--Intro end-->
 
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alekhdeztemoltzin)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AlekHT/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31920341/alejandro-de-jesús-hernández) 
 
 <!--- stats & Trophy (start) -->
 <p align="center">
